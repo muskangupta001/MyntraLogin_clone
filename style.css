@@ -55,6 +55,7 @@ button{
   height: 35px;
   margin: 0px 80px  50px  ;
   display: flex;
+  border-radius: 10px;
   justify-content: center;
   align-items: center;
 }
